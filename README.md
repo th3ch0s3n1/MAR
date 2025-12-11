@@ -4,7 +4,7 @@
 
 ## Obsah
 
-- [podstata marketingu](podstata_marketingu.md)
-  - [definování marketingu](podstata_marketingu.md#definování-marketingu)
-  - [marketingový mix](podstata_marketingu.md#marketingový-mix)
-  - [podnikatelské koncepce](podstata_marketingu.md#podnikatelské-koncepce)
+- [Podstata marketingu](podstata_marketingu.md)
+  - [Definování marketingu](podstata_marketingu.md#definování-marketingu)
+  - [Marketingový mix](podstata_marketingu.md#marketingový-mix)
+  - [Podnikatelské koncepce](podstata_marketingu.md#podnikatelské-koncepce)
