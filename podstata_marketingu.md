@@ -1,3 +1,5 @@
+[zpět](README.md)
+
 # Podstata marketingu
 
 ## Definování marketingu
