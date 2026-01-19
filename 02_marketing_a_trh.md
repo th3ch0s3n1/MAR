@@ -2,6 +2,14 @@
 
 # Marketing a trh
 
+**Po prostudování této kapitoly byste měli být schopni**
+
+- definovat trh, tržní ekonomiku a směnu
+- graficky znázornit a vysvětlit nabídku, poptávku a tržní rovnováhu
+- odlišit konkurenční prostředí od nedokonalostí na trhu, kriticky zhodnotit existenci monopolů a státních zásahů do trhu
+- odlišit diferencovaný  a nediferencovaný marketing
+- pochopit podstatu a význam segmentace trhu pro marketingové řízení firem
+
 ## Podstata trhu
 
 - ekonomický systém společnosti - *pravidla*

@@ -2,6 +2,13 @@
 
 # Podstata marketingu
 
+**Po prostudování této kapitoly byste měli být schopni**
+
+- definovat marketing a odlišit jej od prodeje a reklamy
+- vysvětlit jednotlivé složky marketingového mixu
+- vysvětlit a na praktických příkladech aplikovat podnikatelské koncepce
+- kriticky zhodnotit význam marketingu pro firmu a spotřebitele
+
 ## Definování marketingu
 
 - marketing **napomáhá** firmě **uspokojit vlastní potřeby**, protože se **snaží pochopit trh**
