@@ -2,7 +2,7 @@
 
 **Marketing** je proces zaměřený na uspokojování potřeb zákazníka. Pomocí nástrojů, metod a technik marketingového výzkumu dochází ke zjištění  potřeb a přání zákazníka ze strany firem, státních institucí či dalších  organizací, přičemž na základě zjištěných skutečností pak tyto  organizace přijmou taková opatření, jejichž cílem je nabídnout  zákazníkovi produkty s co největší přidanou hodnotou, ve správný čas, v  ideálním místě a za vhodnou cenu.
 
-![https://pixabay.com/photos/advertising-newspaper-old-man-ads-981455/](D:\Soubory\skola\MAR\img\advertising.jpg)
+![https://pixabay.com/photos/advertising-newspaper-old-man-ads-981455/](img/advertising.jpg)
 
 ## Obsah
 
