@@ -13,4 +13,4 @@
   - [Charakteristika a základní rozdělení trhu](marketing_a_trh.md#charakteristika-a-základní-rozdělení-trhu)
   - [Historický vývoj směny](marketing_a_trh.md#historický-vývoj-směny)
   - [Nabídka a poptávka](marketing_a_trh.md#nabídka-a-poptávka)
-    - Zákony trhu
+    - [Zákony trhu](marketing_a_trh.md#zákony-trhu)
