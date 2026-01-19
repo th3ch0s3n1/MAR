@@ -16,3 +16,5 @@
   - [Historický vývoj směny](02_marketing_a_trh.md#historický-vývoj-směny)
   - [Nabídka a poptávka](02_marketing_a_trh.md#nabídka-a-poptávka)
     - [Zákony trhu](02_marketing_a_trh.md#zákony-trhu)
+- [Marketingové prostředí](03_marketingové_prostředí.md)
+  - [Mikroprostředí](03_marketingové_prostředí.md#mikroprostředí)
